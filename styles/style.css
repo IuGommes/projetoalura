@@ -195,4 +195,19 @@ body {
       width: auto;
     }
 
+    .curriculo {
+      flex-direction: column-reverse;
+      padding: 5%;
+      align-items: center;
+    }
+
+    .curriculo__titulo__nome {
+      padding-top: 5%;
+
+    }
+
+    .curriculo__titulo {
+      width: auto;
+    }
+    
   }
